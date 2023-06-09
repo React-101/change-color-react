@@ -1,0 +1,2 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css);body{text-align:center;transition:background-color .2s ease}#app #current-color{font-family:monospace;font-size:clamp(1rem,9vw,4rem);margin-top:150px!important;text-shadow:2px 2px 0 #fff}#app .colors{bottom:90px;margin-top:50px;position:absolute;width:100%}#app .colors button{border:7px solid #fff;border-radius:50%;height:80px;margin:0 10px;width:80px}#app .active{border-color:green!important}
+/*# sourceMappingURL=main.8ab146d3.css.map*/
